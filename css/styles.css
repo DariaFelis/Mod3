@@ -1,0 +1,12 @@
+
+
+#content {
+    background-color: bisque;
+    margin: 20px;
+}
+
+#option1,
+#option2,
+#option3 {
+    background-color: plum;
+}
